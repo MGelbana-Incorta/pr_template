@@ -1,3 +1,3 @@
-[INC-] A short helpful summary for your fellow developer
+[INC-] A short helpful summary
 
 A helpful description for your fellow developer
